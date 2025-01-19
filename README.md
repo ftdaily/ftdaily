@@ -1,6 +1,8 @@
 # 💫About Me :
 🔭 Student at [Gunadarma University](https://gunadarma.ac.id/)
+
 🌱 I’m currently learning reverse engineering and ML.
+
 ❓ Feel free to ask about tech stuff.
 
 ## 🌐Socials
