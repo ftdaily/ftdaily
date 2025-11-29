@@ -1,8 +1,8 @@
-<img align="right" height="230" src="https://i.pinimg.com/736x/bf/6e/29/bf6e296386c67b027cd3d234e3c6efa4.jpg"  />
+<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<img align="right" height="150" src="https://i.pinimg.com/736x/bf/6e/29/bf6e296386c67b027cd3d234e3c6efa4.jpg"  />
 
 ###
 
@@ -24,9 +24,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="230" src="https://avatars.githubusercontent.com/u/52481063?v=4"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/52481063?v=4"  />
 
 ###
 
@@ -78,6 +76,20 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ftdaily&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ftdaily/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ftdaily/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ftdaily/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ftdaily/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ftdaily/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ftdaily/2" alt="Medium post 3"  />
+  </a>
 </div>
 
 ###
